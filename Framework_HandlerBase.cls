@@ -16,6 +16,7 @@ Last Updated:       12/19/2013
 // need the trigger to call back into itself
 
 // Once implement in an instance, this class never needs changed 
+// New line
 ////////////////////////////////////////////////////////////////////////////////
 */
 
